@@ -171,6 +171,11 @@ print(info.text)
 
 ---
 
+### 7. Screenshots
+
+![alt text](<screenshots/Screenshot 2026-08-27 132129.png>)
+
+
 ## 🔐 Environment & API Key Management
 
 The API key is **not hard-coded inside the application**.
